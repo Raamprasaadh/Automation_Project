@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-s3bucket="upgrad-ramprasadh/logs"
-name="ramprasadh"
+s3bucket="upgrad-Ramprasadh/logs"
+name="Ramprasadh"
 
 #------------------install apache---------
   sudo apt install apache2 -y
